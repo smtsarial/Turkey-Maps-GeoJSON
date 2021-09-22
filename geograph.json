@@ -11798,7 +11798,7 @@
         ]
       },
       "properties": {
-        "name": "Ist-avrupa",
+        "name": "Istanbul_avrupa",
         "number": 34
       },
       "type": "Feature"
@@ -12154,7 +12154,7 @@
         ]
       },
       "properties": {
-        "name": "Ist-asya",
+        "name": "Istanbul_asya",
         "number": 34
       },
       "type": "Feature"
