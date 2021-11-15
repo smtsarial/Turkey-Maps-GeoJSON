@@ -1330,7 +1330,7 @@
         ]
       },
       "properties": {
-        "name": "Agri",
+        "name": "Ağrı",
         "number": 4
       },
       "type": "Feature"
@@ -7780,7 +7780,7 @@
         ]
       },
       "properties": {
-        "name": "Cankiri",
+        "name": "Çankırı",
         "number": 18
       },
       "type": "Feature"
@@ -7994,7 +7994,7 @@
         ]
       },
       "properties": {
-        "name": "Corum",
+        "name": "Çorum",
         "number": 19
       },
       "type": "Feature"
@@ -9230,7 +9230,7 @@
         ]
       },
       "properties": {
-        "name": "Elazig",
+        "name": "Elazığ",
         "number": 23
       },
       "type": "Feature"
@@ -10060,7 +10060,7 @@
         ]
       },
       "properties": {
-        "name": "Eskisehir",
+        "name": "Eskişehir",
         "number": 26
       },
       "type": "Feature"
@@ -10660,7 +10660,7 @@
         ]
       },
       "properties": {
-        "name": "Gumushane",
+        "name": "Gümüşhane",
         "number": 29
       },
       "type": "Feature"
@@ -11420,7 +11420,7 @@
         ]
       },
       "properties": {
-        "name": "Igdir",
+        "name": "Iğdır",
         "number": 76
       },
       "type": "Feature"
@@ -14566,7 +14566,7 @@
         ]
       },
       "properties": {
-        "name": "Karabuk",
+        "name": "Karabük",
         "number": 78
       },
       "type": "Feature"
@@ -16122,7 +16122,7 @@
         ]
       },
       "properties": {
-        "name": "Kirsehir",
+        "name": "Kırşehir",
         "number": 40
       },
       "type": "Feature"
@@ -17042,7 +17042,7 @@
         ]
       },
       "properties": {
-        "name": "Kutahya",
+        "name": "Kütahya",
         "number": 43
       },
       "type": "Feature"
